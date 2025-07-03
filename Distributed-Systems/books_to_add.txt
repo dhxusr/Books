@@ -1,0 +1,3 @@
+Designing data-intensive applications
+the art of scalability- abbot & fisher
+site reliability engineering - google sre book
